@@ -8,3 +8,4 @@ After working for five years for the french government on digital policies (digi
 - 📫 How to reach me : on this link  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norab273&layout=compact)](https://github.com/norab273/github-readme-stats)
